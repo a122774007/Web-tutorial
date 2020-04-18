@@ -19,7 +19,7 @@
     "babel-polyfill": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "node-sass": "^4.13.1",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.4",
     "pug": "^2.0.3",
     "pug-cli": "^1.0.0-alpha6",
     "sass": "^1.17.2"
@@ -31,6 +31,8 @@
   "main": "index.js",
   "keywords": [],
   "dependencies": {
-    "jquery": "^3.5.0"
+    "compile-sass": "^1.1.0",
+    "jquery": "^3.5.0",
+    "parcel": "^1.12.4"
   }
 }
